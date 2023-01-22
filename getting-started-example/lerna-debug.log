@@ -1,0 +1,5 @@
+49 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+49 error remote: Permission to lerna/getting-started-example.git denied to abdou-chakhkhar.
+49 error fatal: unable to access 'https://github.com/lerna/getting-started-example.git/': The requested URL returned error: 403
+49 error     at makeError (/home/abdou/Desktop/Deepecho/lerna-demo/getting-started-example/node_modules/execa/lib/error.js:60:11)
+49 error     at handlePromise (/home/abdou/Desktop/Deepecho/lerna-demo/getting-started-example/node_modules/execa/index.js:118:26)
